@@ -1,0 +1,5 @@
+git init 初始化
+git status 状态
+git add . 添加
+git commit -m ""  提交
+git log 日志
